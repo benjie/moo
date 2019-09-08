@@ -1,3 +1,5 @@
+FORK: [adds backreferences support](https://github.com/no-context/moo/pull/132)
+
 ![](cow.png)
 
 Moo!
