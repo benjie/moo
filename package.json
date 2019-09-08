@@ -4,6 +4,7 @@
   "description": "Optimised tokenizer/lexer generator! 🐄 Much performance. Moo!",
   "main": "moo.js",
   "files": [
+    "moo.d.ts",
     "moo.js"
   ],
   "repository": "https://github.com/tjvr/moo.git",
